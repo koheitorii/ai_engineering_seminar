@@ -1,1 +1,1 @@
-# ai_engineering_seminar
+# 基礎から始めるAIエンジニア育成講座
